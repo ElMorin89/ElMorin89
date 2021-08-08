@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ElMorin89
+- 👀 I’m interested in web application and blockchain.
+- 🌱 I’m currently learning solidity, vue.js, laravel.
+- 💞️ I’m looking to collaborate on blockchain.
+- 📫 How to reach me: send email to elmorin89@gmail.com
